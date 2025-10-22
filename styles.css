@@ -1,0 +1,75 @@
+
+
+
+
+
+.containerTop {
+      color: rgb(155, 149, 149);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 750px;
+      color: black;
+      background-color: darkgray;
+}
+
+.containerTop button {
+  background: none;
+  border: 1px solid lightgrey;
+  padding: 0;
+  display: flex;
+}
+
+.containerTop button svg {
+  width: 2rem;
+  height: 2rem;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 550px;
+  margin-top: 20px;
+}
+
+.pai{
+  background-color: gray;
+  padding: 50px;
+}                      
+
+.filha{
+  padding: 100px;
+
+  border-width: 2px;
+  border-style: dashed;
+  border-color: #000000;
+
+  /*border: 2px dashed #000; -- Pode usar assim mais direto também */
+}
+
+.container2 {
+  background-color: #cccccc;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  gap: 70px;
+  
+}
+
+.requitangulo {
+  padding: 100px;
+  background-color: #ffffff;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
